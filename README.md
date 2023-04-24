@@ -1,3 +1,6 @@
-![Amoung](https://preview.redd.it/ay7ncy0qrzr61.jpg?width=960&crop=smart&auto=webp&s=2f34509c71c81822a86738a8e6de626e00f7ee80)
-- \> Amoung
-- \> Amoung pequeño
+### Hi, I'm Phoenix.
+Grass-skeptical Linux nerd, self taught programmer, and IBDP student 
+
+[![Mastodon: @phoenixwb@mastodon.online](https://img.shields.io/badge/Mastodon-%40phoenixwb%40mastodon.online-%2331343D?logo=mastodon&style=flat-square)](https://mastodon.online/@phoenixwb)
+[![Discord: phynxinferno#1452](https://img.shields.io/badge/Discord-phynxinferno%231452-%2331343D?logo=discord&style=flat-square)](https://discord.com/users/790689361791942707)
+[![EMail: phoenixwb@netc.eu](https://img.shields.io/badge/EMail-phoenixwb@netc.eu-%2331343D?logo=thunderbird&style=flat-square)](mailto:phoenixwb@netc.eu)
