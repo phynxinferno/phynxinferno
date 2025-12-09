@@ -181,7 +181,6 @@
             <script>
                 // I miss react :(
                 document.addEventListener("DOMContentLoaded", () => {
-                    console.log("test");
                     let onCardChecked = false;
                     const card = document.getElementById("card");
                     document.addEventListener("mousemove", (event) => {
@@ -205,6 +204,7 @@
                                 `oklch(${0.4 - colorChange} 0 100)`,
                             );
                         } else if (!onCardChecked) {
+                            onCardChecked = true;
                             card.style.transform = "";
                             card.style.setProperty("--l1", `oklch(0.4 0 100)`);
                             card.style.setProperty("--l2", `oklch(0.4 0 100)`);
