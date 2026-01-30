@@ -1,1 +1,3 @@
-### [Hi— I'm Phoenix.](https://phoensix.me)
+### Hi— I'm Phoenix.
+
+[phoensix.me](https://phoensix.me)  |  [phoenix.barr@aureumfrontiers.eu](mailto:phoenix.barr@aureumfrontiers.eu)
